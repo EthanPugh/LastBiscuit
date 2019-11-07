@@ -1,2 +1,2 @@
 # Last-Biscuit
-A command line game involving taking biscuits from two barrels until at least one of them is empty. See 'brief.pdf' for more information.
+A variation of the game Nim, whereby biscuits are taken from barrels and is won by taking the last biscuit(s).
